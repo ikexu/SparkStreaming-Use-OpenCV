@@ -1,0 +1,3 @@
+## SparkStreamingUseOpenCV
+
+Spark Streaming与OpenCV传感器数据实时获取:熟悉OpenCV的使用，获取本机的摄像头的图像数据，并通过SparkStreaming做实时分析
